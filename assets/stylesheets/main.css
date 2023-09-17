@@ -1,0 +1,15 @@
+main {
+    outline: 4px solid red;
+    width: 70 vw;
+    margin: 0 auto;
+}
+
+.main-header-section {
+    outline: 3px solid blue;
+    text-align: center;
+margin-bottom: 50px;
+}
+
+.main-content-card{
+outline: 3px solid green;
+}
